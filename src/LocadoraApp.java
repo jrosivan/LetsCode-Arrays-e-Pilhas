@@ -6,10 +6,11 @@ public class LocadoraApp  {
 
     public static void main(String[] args) {
 
+        Carro[] frota = new Carro[10];
+
         System.out.println("┌".concat("─".repeat(50)).concat("┐"));
         System.out.println("│                PANGEIA RENT A CAR                │");
         System.out.println("└".concat("─".repeat(50)).concat("┘"));
-
 
         System.out.println("1) Comprando meus carros...");
         frota[0] = new Carro("JRB-6591","FIAT", "CROSS", 35.00, true);
