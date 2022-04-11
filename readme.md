@@ -1,4 +1,4 @@
-* Questão #1 * Enunciado
+1. Questão #1 * Enunciado
 Em uma locadora de carros que há anos trabalha utilizando papéis para controlar suas tarefas, um novo gerente foi contratado e este decidiu que era hora modernizar as coisas.
 Ele conhecia uma pessoa muito experiente em desenvolvimento de software (sim, você mesmo) e convidou para ajudá-lo nesta missão.
 Como o orçamento não é muito grande, ele escolheu algumas funções para poder priorizar no início do projeto e que foram registradas por um analista de negócios da empresa.
@@ -11,7 +11,7 @@ Especificação:
 - Como agora não temos nada mais no papel, precisamos de uma forma organizada de mostrar todos os nossos carros disponíveis para aluguel, então uma função de impressão em que apareça todas as informações do carro é bastante importante. Abaixo está nossa sugestão:
 
 
-* Questão #2 * Enunciado
+2. Questão #2 * Enunciado
 Terminada a nossa primeira sprint, o novo gerente da loja ficou muito satisfeito com os resultados obtidos, pois com a melhora da organização, mais clientes foram atraídos para a locadora e os lucros aumentaram. Vendo esses resultados, ele decidiu separar uma parte destes lucros para investir na melhoria da plataforma.
 
 - Devido ao aumento de clientes, a loja não tinha veículos suficientes para atender a todos e com isso foi criada uma lista de espera. Incialmente a lista era feita em um papel, mas um dos atendentes perdeu essas folhas e não foi possível entrar em contato com os clientes. Pensando em evitar que isso volte a acontecer, o gerente priorizou para nossa próxima melhoria os seguintes itens:
